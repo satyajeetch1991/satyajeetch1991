@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Satyajeet Chavan</h1>
 <h3 align="center">A passionate full-stack web developer and AI enthusiast </h3>
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/005/637/993/non_2x/man-making-work-concept-in-front-of-computer-with-tutorial-free-vector.jpg" alt="3D Tech Banner" width="100%" />
+</p>
 
-[![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](https://github.com/satyajeetch1991)
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=satyajeetch1991&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="satyajeetch1991 GitHub Trophies" />
   </a>
 </p>
-
 
 
 
