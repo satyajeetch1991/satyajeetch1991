@@ -19,15 +19,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajeetch1991&label=Profile%20views&color=0e75b6&style=flat" alt="satyajeetch1991" /> </p>
 
 ---
+💼 About Me
 
-- 🔭 I’m currently working on *E-Commerce Website*
-- 🌟 I’m currently learning *Full Stack Development, Artificial Intelligence, and Machine Learning*
-- 👯‍♂ I’m looking to collaborate on *Financial Advisor Platform*
-- 🤝 I’m looking for help with *AI Recruitment Platform*
-- 👨‍💻 All of my projects are available on [My GitHub](https://github.com/satyajeetch1991)
-- 💬 Ask me about *React, Node.js, MongoDB, Express.js, APIs, Machine Learning*
-- 📧 Reach me at *chavansatyjeet2004@gmail.com*
-- 📄 View my resume [here](https://drive.google.com/file/d/1LcMeB645MO9YpqOY_zef7Yrq7GsleBiR/view?usp=sharing)
+🚀 Full‑Stack Web Developer (React, Node.js, Express.js, MongoDB, MySQL)
+
+💡 DSA Enthusiast — solving algorithmic challenges in Java
+
+🌍 Actively contributing to Open Source projects and collaborative development
+
+🤖 Exploring AI/ML,Docker and their real-world applications
+
+🧠 Strong grasp of Data Structures, Algorithms, and OOP principles
+
+🌐 Portfolio: https://satyajeet-chavan.vercel.app/
+
+🔭 Passionate about building efficient, scalable, and user-focused systems
+
+📄 View my resume [here](https://drive.google.com/file/d/1-1250Yc9SLrCusFQQgdPRL6osxGAoT4J/view?usp=sharing)
 
 ---
 
